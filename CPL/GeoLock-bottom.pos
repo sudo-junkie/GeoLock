@@ -1,0 +1,7 @@
+### Footprint positions - created on Wed Jun 28 18:16:41 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                             PosX       PosY       Rot  Side
+J401      SIM_Card  microSIM_JAE_SF53S006VCBR2000   160.5884   -75.1444   90.0000  bottom
+## End
